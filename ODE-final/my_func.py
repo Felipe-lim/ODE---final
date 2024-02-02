@@ -22,8 +22,7 @@ def get_new_accounts():
     bot = Bot()
 
     #fazer login
-    #bot.login(username="auroragatabranca@gmail.com", password="pitocofiona")
-    bot.login(username="aurora_gatos", password="pitocofiona1")
+    bot.login(username="", password="")
 
     #definindo as tags
     tags = ["extensaoufpb", "proexufpb","probex2021", "editaisdaextensao","probexufpb"]
